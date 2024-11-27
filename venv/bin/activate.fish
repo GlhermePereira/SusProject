@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/glherme/Fatec/gestao-agil/trab-gestao-agil/projectSus/venv"
+set -gx VIRTUAL_ENV "/home/glherme/projects/python/SusProject/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
